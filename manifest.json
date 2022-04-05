@@ -1,0 +1,11 @@
+{
+  "name": "trello-card-board",
+  "id": "widget-id-Jt5GsYI4gi",
+  "api": "1.0.0",
+  "editorType": ["figjam"],
+  "permissions": [],
+  "containsWidget": true,
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "widgetApi": "1.0.0"
+}
