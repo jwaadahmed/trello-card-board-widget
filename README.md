@@ -1,4 +1,4 @@
-# @figma/create-widget
+# @Trello like Cards for Figma
 
 This repo was created by Jawad Ahmed @AlphaSquad
 
