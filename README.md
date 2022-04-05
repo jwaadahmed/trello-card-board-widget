@@ -1,6 +1,6 @@
 # @figma/create-widget
 
-This repo was created by @figma/create-widget
+This repo was created by Jawad Ahmed @AlphaSquad
 
 ## Getting started
 
